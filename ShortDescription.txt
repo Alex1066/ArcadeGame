@@ -1,0 +1,9 @@
+Student: Popa Cristian Alexandru
+Grupa: 333
+Proiect 2D.
+
+Proiectul reprezinta un joc pentru 2 jucatori realizat cu ajutorul framework-ului Phaser3.
+El este format din 5 stari. GameScene(jocul in sine) este impartit in 2 parti, fiecare
+reprezentand jocul din puncte de vedere al unui jucator. Astfel s-a putut crea o harta mai mare
+decat permitea ecranul.
+Scopul jocului este sa aduni toate stelutele fara sa pierzi toate cele 3 vieti.
